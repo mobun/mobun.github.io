@@ -1,5 +1,9 @@
 ---
 title: Testing Microsoft Graph Locally with App Permissions
+categories:
+    - Azure
+    - Microsoft Graph
+    - PowerShell
 ---
 
 Debugging is not always difficult because the code itself is complicated. Often, it is difficult because behavior outside the application is hard to reproduce realistically. That was exactly my situation when I wanted to test Microsoft Graph calls for an Azure Function.
